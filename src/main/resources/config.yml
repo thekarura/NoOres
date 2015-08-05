@@ -1,0 +1,17 @@
+worlds:
+  - DEBUG
+  - Example_World1
+  - Example_World2
+  - Example_World3
+materials:
+  - COAL_ORE
+  - DIAMOND_ORE
+  - EMERALD_ORE
+  - GLOWING_REDSTONE_ORE
+  - GOLD_ORE
+  - IRON_ORE
+  - LAPIS_ORE
+  - QUARTZ_ORE
+  - REDSTONE_ORE
+  - REDSTONE_ORE
+  - GOLD_RECORD

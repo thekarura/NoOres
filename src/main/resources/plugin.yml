@@ -1,0 +1,9 @@
+name: NoOres
+version: 1.8.0
+authers: the_karura
+main: com.github.thekarura.noores.NoOres
+commands:
+  NoOres:
+    permission: NoOres.Command
+    permission-message: You do not have <permission>.
+    usage: /<command>
